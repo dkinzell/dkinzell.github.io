@@ -1,9 +1,10 @@
 body {
   text-align: center;
-  background: url("https://lh6.googleusercontent.com/-6hdXZG9kNCs/VImHzcurP8I/AAAAAAAAAmM/LGZO4PmmAAQ/w2048-h1365/10827906_638931196229164_1344875531856226413_o.jpg");
+  background-image: url("unit_3/images/party.jpg");
   background-size: cover;
   color: #fff;
   font-family: futura;
+
 }
 hr {
   width: 200px;
