@@ -2,12 +2,11 @@ body {
     text-align: center;
     background: url(https://lh6.googleusercontent.com/-6hdXZG9kNCs/VImHzcurP8I/AAAAAAAAAmM/LGZO4PmmAAQ/w2048-h1365/10827906_638931196229164_1344875531856226413_o.jpg);
     background-size: cover;
-    color: 255,255,255;
     font-family: futura
- 
-
 }
 
 h1, p {
+    text-align: center;
     color: white;
+    font-family: futura
 }
