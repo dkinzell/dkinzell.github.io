@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url("http://s3.amazonaws.com/ogden_images/www.hiddenvalleyresort.com/images/2015/11/24191417/hiddenvalley_nye_2015.jpg");
+  background: url("http://s3.amazonaws.com/ogden_images/www.hiddenvalleyresort.com/images/2015/11/24191417/hiddenvalley_nye_2015.jpg");
   background-size: cover;
   color: #fff;
   font-family: futura;
