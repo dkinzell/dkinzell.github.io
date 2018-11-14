@@ -1,8 +1,8 @@
 body {
   text-align: center;
-  background: url('http://www.hellovancity.com/wp-content/uploads/2015/12/Vancouver-New-Years-Eve-2016-party-guide.jpg');
   background-size: cover;
   color: #fff;
+  background-image: img-src="iamges/party.jpg"
 
 }
 @import url('https://fonts.googleapis.com/css?family=Questrial');
