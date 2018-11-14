@@ -9,8 +9,8 @@ body {
 
 }
 h1 {
-  	width: 200px;
   	text-align: center;
+  	font-size: 40px;
 }
 h2 {
 	font-style: italic;
