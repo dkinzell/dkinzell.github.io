@@ -8,11 +8,14 @@ body {
 @import url('https://fonts.googleapis.com/css?family=Questrial');
 hr {
   width: 200px;
+  font-family: "Questrial";
 }
 h2 {
 	font-style: italic;
+	font-family: "Questrial";
 }
 p {
   font-size: 22px;
   margin: 2em;
+  font-family: "Questrial";
 }
