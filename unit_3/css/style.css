@@ -2,10 +2,10 @@ body {
   text-align: center;
   background-size: cover;
   color: #fff;
-  background-image: "iamges/party.jpg";
+  background-image: url("iamges/party.jpg");
 
 }
-@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url("https://fonts.googleapis.com/css?family=Questrial");
 hr {
   width: 200px;
   font-family: "Questrial";
