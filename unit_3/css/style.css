@@ -3,8 +3,7 @@ body {
   text-align: center;
   margin: 2em;
   background-size: cover;
-  background-color: 0,0,0;
-  color: #fff;
+  color: rgb(0,0,0);
 
 }
 h1 {
