@@ -2,7 +2,7 @@ body {
   text-align: center;
   background-size: cover;
   color: #fff;
-  background-image: img-src="iamges/party.jpg"
+  background-image: "iamges/party.jpg";
 
 }
 @import url('https://fonts.googleapis.com/css?family=Questrial');
