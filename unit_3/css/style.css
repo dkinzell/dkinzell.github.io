@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
 body {
   text-align: center;
   margin-top: 2em;
   margin: 20em;
   background-size: cover;
   color: rgb(0,0,0);
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Alfa Slab One', cursive;
 
 }
 h1 {
@@ -19,5 +19,5 @@ p {
   	font-size: 22px;
 }
 ul {
-	font-size: 22px;
+	font-size: 30px;
 }
