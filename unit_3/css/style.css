@@ -6,6 +6,7 @@ body {
   	margin-left: 20em;
   	margin-bottom: 20em
   background-size: cover;
+  background-image: "images/party.jpg"
   color: rgb(0,0,0);
   font-family: 'Carter One', cursive;
 
@@ -16,7 +17,7 @@ h1 {
 h2 {
 	font-style: italic;
 }
-p {
+p1 {
  	font-family: 'Josefin Slab', serif;
   	font-size: 22px;
 }
