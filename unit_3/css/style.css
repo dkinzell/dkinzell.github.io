@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
 body {
   text-align: center;
-  margin-top: 2em;
-  margin: 20em;
+  	margin-top: 2em;
+  	margin-right: 20em;
+  	margin-left: 20em;
+  	margin-bottom: 20em
   background-size: cover;
   color: rgb(0,0,0);
   font-family: 'Alfa Slab One', cursive;
