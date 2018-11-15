@@ -7,7 +7,7 @@ body {
   	margin-bottom: 20em
   background-size: cover;
   color: rgb(0,0,0);
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Carter One', cursive;
 
 }
 h1 {
@@ -17,10 +17,10 @@ h2 {
 	font-style: italic;
 }
 p {
- 	font-family: 'Carter One', cursive;
+ 	font-family: 'Josefin Slab', serif;
   	font-size: 22px;
 }
 ul {
-	font-family: 'Carter One', cursive;
+	font-family: 'Josefin Slab', serif;
 	font-size: 30px;
 }
