@@ -2,9 +2,10 @@
 body {
   text-align: center;
   padding-top: 2em;
+  padding: 20em;
   width: 600px;
   background-size: cover;
-  background-image: "images/party.jpg"
+  background-image: "images/party.jpg";
   color: rgb(0,0,0);
   font-family: 'Carter One', cursive;
 
