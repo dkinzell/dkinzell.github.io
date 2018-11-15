@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 body {
   text-align: center;
   margin-top: 2em;
@@ -15,8 +16,10 @@ h2 {
 	font-style: italic;
 }
 p {
+ 	font-family: 'Poiret One', cursive;
   	font-size: 22px;
 }
 ul {
+	font-family: 'Poiret One', cursive;
 	font-size: 30px;
 }
