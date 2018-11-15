@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Carter+One|Josefin+Slab');
 body {
   text-align: center;
-  padding-top: 2em;
-  padding: 20em;
   width: 600px;
   background-image: url("images/party.jpg");
   background-size: cover;
