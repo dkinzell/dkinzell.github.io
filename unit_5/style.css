@@ -2,37 +2,43 @@
 body {
   text-align: center;
   color: black;
-  font-family: Futura
+  font-style: Futura
 }
 header {
   	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
 }
 nav {
 	background-color: #E8C66A;
   border: 1px black solid;
   padding: 20px;
+  text-align: center;
 }
 div/section {
   background-color: #FFE2B8;
   border: 1px black solid;
   padding: 20px;
+  text-align: center;
 }
 aside {
  	background-color: #FFC675;
   border: 1px black solid;
   padding: 20px;
+  text-align: center;
 }
 article {
   background-color: #E89C6C;
   border: 1px black solid;
   padding: 20px;
+  text-align: center;
 }
 footer {
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
+  text-align: center;
 
 }
 </style>
