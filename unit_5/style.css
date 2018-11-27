@@ -1,4 +1,5 @@
 <style>
+<link href="https://fonts.googleapis.com/css?family=Merriweather|Ultra" rel="stylesheet"> 
 body {
   color: black;
   font-style: Futura
@@ -8,12 +9,14 @@ header {
     border: 1px black solid;
     padding: 20px;
     text-align: center;
+    font-family: 'Ultra', serif;
 }
 nav {
 	background-color: #E8C66A;
   border: 1px black solid;
   padding: 20px;
   text-align: center;
+  font-family: 'Ultra', serif;
 }
 div/section {
   background-color: #FFE2B8;
@@ -32,12 +35,14 @@ article {
   border: 1px black solid;
   padding: 20px;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 footer {
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
   text-align: center;
+  font-family: 'Merriweather', serif;
 
 }
 </style>
