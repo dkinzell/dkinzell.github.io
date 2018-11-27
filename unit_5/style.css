@@ -1,7 +1,5 @@
-<style>
-<link href="https://fonts.googleapis.com/css?family=Merriweather|Ultra" rel="stylesheet"> 
-body {
-  color: black;
+<style> 
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Ultra')
 }
 header {
   	background-color: #FFED74;
@@ -21,7 +19,6 @@ div/section {
   background-color: #FFE2B8;
   border: 1px black solid;
   padding: 20px;
-  text-align: center;
 }
 aside {
  	background-color: #FFC675;
