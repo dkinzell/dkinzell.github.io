@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Carter+One|Josefin+Slab');
 body {
   text-align: center;
-  width: 600px;
-  margin: auto;
-  padding-top: 2em;
-  background-image: url("party.jpg");
-  background-size: cover;
-  color: rgb(255,255,255);
+  color: black;
 }
 header {
   	background-color: #FFED74;
