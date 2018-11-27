@@ -1,32 +1,37 @@
-@import url('https://fonts.googleapis.com/css?family=Carter+One|Josefin+Slab');
+<style>
 body {
   text-align: center;
   color: black;
 }
 header {
-  	background-color: [#FFED74];
-    font-size: 40px;
-  	font-family: 'Carter One', cursive;
+  	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 }
 nav {
-	background-color: [#E8C66A];
-  font-style: italic;
-	font-family: 'Carter One', cursive;
+	background-color: #E8C66A;
+  border: 1px black solid;
+  padding: 20px;
 }
 aside {
- 	background-color: [#FFC675];
-  font-family: 'Josefin Slab', serif;
-  	font-size: 22px;
+ 	background-color: #FFC675;
+  border: 1px black solid;
+  padding: 20px;
 }
 article {
-  background-color: [#E89C6C];
-	font-family: 'Josefin Slab', serif;
-	font-size: 30px;
+  background-color: #E89C6C;
+  border: 1px black solid;
+  padding: 20px;
 }
 footer {
-  background-color: [#FF957E];
+  background-color: #FF957E;
+  border: 1px black solid;
+  padding: 20px;
 
 }
 div/section {
-  background-color: [#FFE2B8];
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
 }
+</style>
