@@ -1,16 +1,17 @@
 <style> 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Ultra');
 header {
+    font-family: 'Ultra', serif;
   	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
-    font-family: 'Ultra', serif;
 }
 nav {
-	background-color: #E8C66A;
+	font-family: 'Ultra', serif;
+  background-color: #E8C66A;
   border: 1px black solid;
   padding: 20px;
-  font-family: 'Ultra', serif;
+  
 }
 div/section {
   background-color: #FFE2B8;
@@ -23,16 +24,17 @@ aside {
   padding: 20px;
 }
 article {
+  font-family: 'Merriweather', serif;
   background-color: #E89C6C;
   border: 1px black solid;
   padding: 20px;
-  font-family: 'Merriweather', serif;
+
 }
 footer {
+  font-family: 'Merriweather', serif;
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
-  font-family: 'Merriweather', serif;
-
+  
 }
 </style>
