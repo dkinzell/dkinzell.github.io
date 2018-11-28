@@ -1,5 +1,5 @@
 <style> 
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Ultra');
+@import url('https://fonts.googleapis.com/css?family=Ultra');
 header {
     font-family: 'Ultra', serif;
   	background-color: #FFED74;
@@ -24,14 +24,14 @@ aside {
   padding: 20px;
 }
 article {
-  font-family: 'Merriweather', serif;
+  font-family: 'Ultra', serif;
   background-color: #E89C6C;
   border: 1px black solid;
   padding: 20px;
 
 }
 footer {
-  font-family: 'Merriweather', serif;
+  font-family: 'Ultra', serif;
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
