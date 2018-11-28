@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Ultra');
-header {
+body {
+    text-align: center;
     font-family: 'Ultra', serif;
+}
+header {
   	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 nav {
-	font-family: 'Ultra', serif;
   background-color: #E8C66A;
   border: 1px black solid;
   padding: 20px;
@@ -23,13 +25,11 @@ aside {
   padding: 20px;
 }
 article {
-  font-family: 'Ultra', serif;
   background-color: #E89C6C;
   border: 1px black solid;
   padding: 20px;
   }
 footer {
-  font-family: 'Ultra', serif;
   background-color: #FF957E;
   border: 1px black solid;
   padding: 20px;
