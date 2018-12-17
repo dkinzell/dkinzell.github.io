@@ -13,6 +13,10 @@ h2 {
   color: white;
   
 }
+nav {
+  font-size: 1.8em;
+  float: right;
+}
 img {
   display: block;
   margin: 0 auto;
