@@ -36,14 +36,14 @@ div/section {
   border: 1px black solid;
   padding: 20px;
   float: left;
-  width: 30%;
+  width: 62%;
 }
 #right {
   background-color: pink;
   border: 1px black solid;
   padding: 20px;
   float: right;
-  width: 62%;
+  width: 30%;
 }
 aside {
  	background-color: #FFC675;
