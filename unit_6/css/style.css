@@ -3,7 +3,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 h1,h2 {
-    border: 1px black solid;
     padding: 20px;
 }
 h1 {
@@ -22,7 +21,6 @@ img {
 }
 div/section {
   background-color: #FFE2B8;
-  border: 1px black solid;
   padding: 20px;
 }
 .clearfix:after {
@@ -35,35 +33,29 @@ div/section {
 }
 #two_column {
   background-color: #FFB7CF;
-  border: 1px black solid;
   padding: 20px;
 }
 #left {
   background-color: #a5b6d3;
-  border: 1px black solid;
   padding: 20px;
   float: left;
   width: 50%;
 }
 #right {
   background-color: #bcc3d1;
-  border: 1px black solid;
   padding: 20px;
   float: right;
   width: 40%;
 }
 aside {
  	background-color: #FFC675;
-  border: 1px black solid;
   padding: 20px;
 }
 article {
   background-color: #E89C6C;
-  border: 1px black solid;
   padding: 20px;
   }
 footer {
   background-color: #FF957E;
-  border: 1px black solid;
   padding: 20px;
 }
