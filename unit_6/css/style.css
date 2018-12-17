@@ -9,13 +9,8 @@ h1 {
     font-size: 3em;
     text-align: left;
 }
-h2 {
-  font-size: 1.5em;
-  color: white;
-  
-}
 nav {
-  font-size: 1em;
+  font-size: 1.5em;
   float: right;
 }
 img {
