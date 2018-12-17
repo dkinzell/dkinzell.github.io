@@ -47,6 +47,7 @@ div/section {
   border: 1px black solid;
   padding: 20px;
   float: right;
+  width: 40%;
 }
 aside {
  	background-color: #FFC675;
