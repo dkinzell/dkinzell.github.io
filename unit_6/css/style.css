@@ -2,13 +2,13 @@ body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
-header {
+h1 {
   	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
     text-align: right;
 }
-nav {
+h2 {
   background-color: #E8C66A;
   border: 1px black solid;
   padding: 20px;
