@@ -40,14 +40,14 @@ div/section {
   border: 1px black solid;
   padding: 20px;
   float: left;
-  width: 62%;
+  width: 50%;
 }
 #right {
   background-color: #bcc3d1;
   border: 1px black solid;
   padding: 20px;
   float: right;
-  width: 30%;
+  width: 50%;
 }
 aside {
  	background-color: #FFC675;
