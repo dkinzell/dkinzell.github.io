@@ -67,4 +67,6 @@ article {
   }
 footer {
   padding: 20px;
+  padding: 1em 0;
+  clear: both;
 }
