@@ -4,13 +4,13 @@ body {
 }
 h1,h2 {
     padding: 20px;
-    color: white;
 }
 h1 {
     font-size: 2em;
 }
 h2 {
   font-size: 1.5em;
+  color: white;
   
 }
 img {
