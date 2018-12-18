@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cardo', serif;
 }
 h1,h2 {
     padding: 10px;
@@ -8,6 +8,8 @@ h1,h2 {
 h1 {
     font-size: 3em;
     text-align: left;
+    font-family: 'Dosis', sans-serif;
+
 }
 nav {
   font-size: 1.5em;
@@ -68,4 +70,6 @@ footer {
   padding: 20px;
   padding: 1em 0;
   clear: both;
+  font-family: 'Dosis', sans-serif;
+
 }
