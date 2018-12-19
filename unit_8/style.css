@@ -1,0 +1,102 @@
+body {
+    font-family: 'Cardo', serif;
+    background-color: #f2eae9;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    }
+h1,h2 {
+    margin-top: .5em;
+}
+h1 {
+    font-size: 4em;
+    font-family: 'Dosis', sans-serif;
+
+}
+nav {
+  font-size: 2em;
+  color: black;
+  font-family: 'Dosis', sans-serif;
+
+  }
+h2 {
+    font-size: 1.8em;
+    padding: 1em;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+  }
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+section {
+  padding: 20px;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+#hat {
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #C0C0C0;
+}
+
+#two_column {
+  background-color: #FFB7CF;
+  padding: 1em;
+}
+#left {
+  background-color: #a5b6d3;
+  padding: 1em;
+  float: left;
+  width: 30%;
+}
+#right {
+  padding: 1em;
+  float: right;
+  width: 50%;
+}
+aside {
+ 	font-size: 1em;
+  background-color: #C0C0C0;
+  padding: 20px;
+}
+article {
+  font-size: 1em;
+  background-color: #C0C0C0;
+  padding: 1em;
+  }
+footer {
+  padding: 1em;
+  padding: 1em 0;
+  clear: both;
+  font-family: 'Dosis', sans-serif;
+}
+@media only screen and (max-width: 768px)
+    {#article, #aside {
+      float: none;
+      width: auto;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    nav {
+      display: block;
+      text-align: center;
+      margin: 0;
+    }
+@media only screen and (max-width: 480px) {
+    #two_column {
+        width: 95%;
+    }
+    #image {display: none;}
+}   
+
+}
