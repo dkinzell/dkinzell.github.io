@@ -1,5 +1,5 @@
 body {
-    font-family: 'Cardo', serif;
+    font-family: 'Aleo', serif;
     background-color: #f2eae9;
     font-size: 16px;
     line-height: 1.5;
@@ -10,19 +10,19 @@ h1,h2 {
 }
 h1 {
     font-size: 4em;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Alfa Slab One', cursive;
     text-align: left;
 }
 nav {
   font-size: 2em;
   color: black;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Alfa Slab One', cursive;
   }
 h2 {
     font-size: 1.8em;
     padding: 1em;
     text-align: center;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Alfa Slab One', cursive;
   }
 img {
   display: block;
@@ -76,7 +76,7 @@ footer {
   padding: 1em;
   padding: 1em 0;
   clear: both;
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Alfa Slab One', cursive;
 }
 @media only screen and (max-width: 768px)
     {#article, #aside {
