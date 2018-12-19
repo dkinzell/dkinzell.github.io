@@ -1,11 +1,14 @@
 body {
-    font-size: 20px;
-    text-align: center;
     font-family: 'Cardo', serif;
     background-color: #f2eae9;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    
+    
 }
 h1,h2 {
-    padding: 10px;
+    margin-top: .5em;
 }
 h1 {
     font-size: 4em;
@@ -20,7 +23,7 @@ nav {
   }
 h2 {
     font-size: 1.8em;
-    padding: 10px;
+    padding: 1em;
     text-align: center;
     font-family: 'Dosis', sans-serif;
   }
