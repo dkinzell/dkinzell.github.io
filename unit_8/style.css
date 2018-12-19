@@ -29,7 +29,7 @@ img {
   margin: 0 auto;
   width: 500px;
 }
-div/section {
+section {
   padding: 20px;
 }
 .clearfix:after {
@@ -92,5 +92,11 @@ footer {
       text-align: center;
       margin: 0;
     }
+@media only screen and (max-width: 480px) {
+    #two_column {
+        width: 95%;
+    }
+    #image {display: none;}
+}   
 
 }
