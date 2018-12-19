@@ -47,7 +47,7 @@ section {
   background: #C0C0C0;
 }
 
-#two_column {
+#section_1 {
   background-color: #FFB7CF;
   padding: 1em;
 }
@@ -84,7 +84,7 @@ footer {
       width: auto;
     }
     h1, h2 {
-      text-align: center;
+      text-align: left;
     }
     nav {
       display: block;
