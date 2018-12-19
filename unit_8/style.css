@@ -52,19 +52,18 @@ section {
 
 #two_column {
   background-color: #FFB7CF;
-  padding: 20px;
+  padding: 1em;
 }
 #left {
   background-color: #a5b6d3;
-  padding: 20px;
+  padding: 1em;
   float: left;
-  width: 50%;
+  width: 30%;
 }
 #right {
-  background-color: #bcc3d1;
-  padding: 20px;
+  padding: 1em;
   float: right;
-  width: 40%;
+  width: 50%;
 }
 aside {
  	font-size: 1em;
@@ -74,10 +73,10 @@ aside {
 article {
   font-size: 1em;
   background-color: #C0C0C0;
-  padding: 20px;
+  padding: 1em;
   }
 footer {
-  padding: 20px;
+  padding: 1em;
   padding: 1em 0;
   clear: both;
   font-family: 'Dosis', sans-serif;
