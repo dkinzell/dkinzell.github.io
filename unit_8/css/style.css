@@ -1,12 +1,15 @@
-body {
-    font-family: 'Cardo', serif;
-    background-color: #f2eae9;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: center;
-    
-    
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
 }
+body {
+    font-family: "Aldine721BT-Light", Georgia, serif;
+    font-size: 16px;
+    line-height: 1.45em;
+    font-weight: normal;
+    }
 h1,h2 {
     margin-top: .5em;
 }
@@ -16,16 +19,17 @@ h1 {
 
 }
 nav {
-  font-size: 2em;
-  color: black;
-  font-family: 'Dosis', sans-serif;
-
+    font-family: "Aldine721BT-Light", Georgia, serif;
+    font-weight: normal;
+    font-size: 18px;
+    position: absolute;
+    top: 90px;
+    right: 0;
   }
 h2 {
     font-size: 1.8em;
     padding: 1em;
     text-align: center;
-    font-family: 'Dosis', sans-serif;
   }
 img {
   display: block;
